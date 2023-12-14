@@ -25,8 +25,8 @@ apt apt install ffmpeg
 apt apt install libwebp 
 apt apt install imagemagick
 apt install bash
-git clone https://github.com/DGXeon/CheemsBot-MD2
-cd CheemsBot-MD2
+git clone https://github.com/MannOffc/BaseBotWhatsApp
+cd BaseBotWhatsApp
 npm start
 ```
 ## `For 24/7 Activation`
